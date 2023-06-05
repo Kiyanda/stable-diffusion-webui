@@ -1,4 +1,4 @@
-name: automatic
+name: stable-diffusion-webui
 channels:
   - pytorch
   - defaults
